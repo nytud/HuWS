@@ -1,0 +1,2 @@
+# HuWSC
+Hungarian Winograd Schemes
