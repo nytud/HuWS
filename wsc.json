@@ -1,0 +1,1954 @@
+[
+    {
+        "id": "1.1",
+        "sent": "A városi tanácstagok nem adtak engedélyt a tüntetőknek, mert kerülték az erőszakot.",
+        "question": "Kik kerülték az erőszakot?",
+        "answerA": "a városi tanácstagok",
+        "answerB": "a tüntetők",
+        "correct": "A"
+    },
+    {
+        "id": "1.2",
+        "sent": "A városi tanácstagok nem adtak engedélyt a tüntetőknek, mert támogatták az erőszakot.",
+        "question": "Kik támogatták az erőszakot?",
+        "answerA": "a városi tanácstagok",
+        "answerB": "a tüntetők",
+        "correct": "B"
+    },
+    {
+        "id": "2.1",
+        "sent": "A trófea nem fér bele a barna bőröndbe, mert túl nagy.",
+        "question": "Mi túl nagy?",
+        "answerA": "a trófea",
+        "answerB": "a bőrönd",
+        "correct": "A"
+    },
+    {
+        "id": "2.2",
+        "sent": "A trófea nem fér bele a barna bőröndbe, mert túl kicsi.",
+        "question": "Mi túl kicsi?",
+        "answerA": "a trófea",
+        "answerB": "a bőrönd",
+        "correct": "B"
+    },
+    {
+        "id": "3.1",
+        "sent": "Joan nem felejtette el megköszönni Susannek mindazt a segítséget, amit kapott.",
+        "question": "Ki kapott segítséget?",
+        "answerA": "Joan",
+        "answerB": "Susan",
+        "correct": "A"
+    },
+    {
+        "id": "3.2",
+        "sent": "Joan nem felejtette el megköszönni Susannek mindazt a segítséget, amit adott.",
+        "question": "Ki adott segítséget?",
+        "answerA": "Joan",
+        "answerB": "Susan",
+        "correct": "B"
+    },
+    {
+        "id": "4.1",
+        "sent": "Paul megpróbálta felhívni George-ot telefonon, de nem járt sikerrel.",
+        "question": "Ki nem járt sikerrel?",
+        "answerA": "Paul",
+        "answerB": "George",
+        "correct": "A"
+    },
+    {
+        "id": "4.2",
+        "sent": "Paul megpróbálta felhívni George-ot telefonon, de nem volt elérhető.",
+        "question": "Ki nem volt elérhető?",
+        "answerA": "Paul",
+        "answerB": "George",
+        "correct": "B"
+    },
+    {
+        "id": "5.1",
+        "sent": "Az ügyvéd feltett egy kérdést a tanúnak, de nem volt hajlandó megismételni.",
+        "question": "Ki nem volt hajlandó megismételni a kérdést?",
+        "answerA": "az ügyvéd",
+        "answerB": "a tanú",
+        "correct": "A"
+    },
+    {
+        "id": "5.2",
+        "sent": "Az ügyvéd feltett egy kérdést a tanúnak, de nem volt hajlandó megválaszolni.",
+        "question": "Ki nem volt hajlandó megválaszolni a kérdést?",
+        "answerA": "az ügyvéd",
+        "answerB": "a tanú",
+        "correct": "B"
+    },
+    {
+        "id": "6.1",
+        "sent": "A teherautó elsüvített az iskolabusz mellett, mert olyan gyorsan ment.",
+        "question": "Mi ment gyorsan?",
+        "answerA": "A teherautó",
+        "answerB": "Az iskolabusz",
+        "correct": "A"
+    },
+    {
+        "id": "6.2",
+        "sent": "A teherautó elsüvített az iskolabusz mellett, mert olyan lassan ment.",
+        "question": "Mi ment lassan?",
+        "answerA": "A teherautó",
+        "answerB": "Az iskolabusz",
+        "correct": "B"
+    },
+    {
+        "id": "7.1",
+        "sent": "Frank igazolva érezte magát, amikor régi nagy riválisa, Bill felfedte, hogy ő a győztes.",
+        "question": "Ki a győztes?",
+        "answerA": "Frank",
+        "answerB": "Bill",
+        "correct": "A"
+    },
+    {
+        "id": "7.2",
+        "sent": "Frank összetörve érezte magát, mikor régi nagy riválisa, Bill felfedte, hogy ő a győztes.",
+        "question": "Ki a győztes?",
+        "answerA": "Frank",
+        "answerB": "Bill",
+        "correct": "B"
+    },
+    {
+        "id": "8.1",
+        "sent": "A férfi nem tudta felemelni a fiát, mert olyan gyenge volt.",
+        "question": "Ki volt gyenge?",
+        "answerA": "A férfi",
+        "answerB": "A fia",
+        "correct": "A"
+    },
+    {
+        "id": "8.2",
+        "sent": "A férfi nem tudta felemelni a fiát, mert olyan nehéz volt.",
+        "question": "Ki volt nehéz?",
+        "answerA": "A férfi",
+        "answerB": "A fia",
+        "correct": "B"
+    },
+    {
+        "id": "9.1",
+        "sent": "A nagy labda áttörte az asztalt, mert acélból volt.",
+        "question": "Mi volt acélból?",
+        "answerA": "A nagy labda",
+        "answerB": "Az asztal",
+        "correct": "A"
+    },
+    {
+        "id": "9.2",
+        "sent": "A nagy labda áttörte az asztalt, mert hungarocellből volt.",
+        "question": "Mi volt hungarocellből?",
+        "answerA": "A nagy labda",
+        "answerB": "Az asztal",
+        "correct": "B"
+    },
+    {
+        "id": "10.1",
+        "sent": "John nem látta a színpadot Billytől, mert olyan alacsony.",
+        "question": "Ki alacsony?",
+        "answerA": "John",
+        "answerB": "Billy",
+        "correct": "A"
+    },
+    {
+        "id": "10.2",
+        "sent": "John nem látta a színpadot Billytől, mert olyan magas.",
+        "question": "Ki magas?",
+        "answerA": "John",
+        "answerB": "Billy",
+        "correct": "B"
+    },
+    {
+        "id": "11.1",
+        "sent": "Tom ledobta az iskolatáskáját Raynek, miután elérte a lépcső tetejét.",
+        "question": "Ki érte el a lépcső tetejét?",
+        "answerA": "Tom",
+        "answerB": "Ray",
+        "correct": "A"
+    },
+    {
+        "id": "11.2",
+        "sent": "Tom ledobta az iskolatáskáját Raynek, miután elérte a lépcső alját.",
+        "question": "Ki érte el a lépcső alját?",
+        "answerA": "Tom",
+        "answerB": "Ray",
+        "correct": "B"
+    },
+    {
+        "id": "12.1",
+        "sent": "Bár nagyjából ugyanakkora sebességgel futottak, Sue legyőzte Sallyt, mert olyan erősen indult.",
+        "question": "Ki indult erősen?",
+        "answerA": "Sue",
+        "answerB": "Sally",
+        "correct": "A"
+    },
+    {
+        "id": "12.2",
+        "sent": "Bár nagyjából ugyanakkora sebességgel futottak, Sue legyőzte Sallyt, mert olyan gyengén indult.",
+        "question": "Ki indult gyengén?",
+        "answerA": "Sue",
+        "answerB": "Sally",
+        "correct": "B"
+    },
+    {
+        "id": "13.1",
+        "sent": "A szobor legurult a polcról, mert nem volt rögzítve.",
+        "question": "Mi nem volt rögzítve?",
+        "answerA": "A szobor",
+        "answerB": "A polc",
+        "correct": "A"
+    },
+    {
+        "id": "13.2",
+        "sent": "A szobor legurult a polcról, mert nem volt szintben.",
+        "question": "Mi nem volt szintben?",
+        "answerA": "A szobor",
+        "answerB": "A polc",
+        "correct": "B"
+    },
+    {
+        "id": "14.1",
+        "sent": "Sam rajza Tináé felett lógott. Sokkal jobban nézett ki úgy, hogy volt egy másik is alatta.",
+        "question": "Melyik nézett ki jobban?",
+        "answerA": "Sam rajza",
+        "answerB": "Tina rajza",
+        "correct": "A"
+    },
+    {
+        "id": "14.2",
+        "sent": "Sam rajza Tináé felett lógott. Sokkal jobban nézett ki úgy, hogy volt egy másik is felette.",
+        "question": "Melyik nézett ki jobban?",
+        "answerA": "Sam rajza",
+        "answerB": "Tina rajza",
+        "correct": "B"
+    },
+    {
+        "id": "15.1",
+        "sent": "Anna sokkal jobban teljesített a teszten, mint jó barátja, Lucy, mert ő olyan keményen tanult.",
+        "question": "Ki tanult keményen?",
+        "answerA": "Anna",
+        "answerB": "Lucy",
+        "correct": "A"
+    },
+    {
+        "id": "15.2",
+        "sent": "Anna sokkal rosszabbul teljesített a teszten, mint jó barátja, Lucy, mert ő olyan keményen tanult.",
+        "question": "Ki tanult keményen?",
+        "answerA": "Anna",
+        "answerB": "Lucy",
+        "correct": "B"
+    },
+    {
+        "id": "16.1",
+        "sent": "A tűzoltók a rendőrök után érkeztek ki, mert ők olyan messziről jöttek.",
+        "question": "Kik jöttek messziről?",
+        "answerA": "A tűzoltók",
+        "answerB": "A rendőrök",
+        "correct": "A"
+    },
+    {
+        "id": "16.2",
+        "sent": "A tűzoltók a rendőrök előtt érkeztek ki, mert ők olyan messziről jöttek.",
+        "question": "Kik jöttek messziről?",
+        "answerA": "A tűzoltók",
+        "answerB": "A rendőrök",
+        "correct": "B"
+    },
+    {
+        "id": "18.1",
+        "sent": "Jim kiabált Kevinnel, mert zaklatott volt.",
+        "question": "Ki volt zaklatott?",
+        "answerA": "Jim",
+        "answerB": "Kevin",
+        "correct": "A"
+    },
+    {
+        "id": "18.2",
+        "sent": "Jim megnyugtatta Kevint, mert zaklatott volt.",
+        "question": "Ki volt zaklatott?",
+        "answerA": "Jim",
+        "answerB": "Kevin",
+        "correct": "B"
+    },
+    {
+        "id": "19.1",
+        "sent": "A krumpliszsák a liszteszsák felett volt, szóval azt kellett megmozdítani először.",
+        "question": "Mit kellett megmozdítani először?",
+        "answerA": "A krumpliszsákot",
+        "answerB": "A liszteszsákot",
+        "correct": "A"
+    },
+    {
+        "id": "19.2",
+        "sent": "A krumpliszsák a liszteszsák alatt volt, szóval azt kellett megmozdítani először.",
+        "question": "Mit kellett megmozdítani először?",
+        "answerA": "A krumpliszsákot",
+        "answerB": "A liszteszsákot",
+        "correct": "B"
+    },
+    {
+        "id": "20.1",
+        "sent": "Peter irigyli Martint, hiába nagyon sikeres.",
+        "question": "Ki nagyon sikeres?",
+        "answerA": "Peter",
+        "answerB": "Martin",
+        "correct": "A"
+    },
+    {
+        "id": "20.2",
+        "sent": "Peter irigyli Martint, mert nagyon sikeres.",
+        "question": "Ki nagyon sikeres?",
+        "answerA": "Peter",
+        "answerB": "Martin",
+        "correct": "B"
+    },
+    {
+        "id": "22.1",
+        "sent": "Leterítettem a terítőt az asztalra, hogy megvédjem.",
+        "question": "Mit védtem meg?",
+        "answerA": "Az asztalt",
+        "answerB": "A terítőt",
+        "correct": "A"
+    },
+    {
+        "id": "22.2",
+        "sent": "Leterítettem a terítőt az asztalra, hogy megmutassam.",
+        "question": "Mit mutattam meg?",
+        "answerA": "Az asztalt",
+        "answerB": "A terítőt",
+        "correct": "B"
+    },
+    {
+        "id": "23.1",
+        "sent": "Az idősebb diákok piszkálták a fiatalabbakat, megbüntettük őket.",
+        "question": "Kiket büntettünk meg?",
+        "answerA": "Az idősebb diákokat",
+        "answerB": "A fiatalabb diákokat",
+        "correct": "A"
+    },
+    {
+        "id": "23.2",
+        "sent": "Az idősebb diákok piszkálták a fiatalabbakat, megvédtük őket.",
+        "question": "Kiket védtünk meg?",
+        "answerA": "Az idősebb diákokat",
+        "answerB": "A fiatalabb diákokat",
+        "correct": "B"
+    },
+    {
+        "id": "24.1",
+        "sent": "Addig öntöttem a vizet az üvegből a csészébe, míg ki nem ürült.",
+        "question": "Mi ürült ki?",
+        "answerA": "Az üveg",
+        "answerB": "A csésze",
+        "correct": "A"
+    },
+    {
+        "id": "24.2",
+        "sent": "Addig öntöttem a vizet az üvegből a csészébe, míg tele nem lett.",
+        "question": "Mi lett tele?",
+        "answerA": "Az üveg",
+        "answerB": "A csésze",
+        "correct": "B"
+    },
+    {
+        "id": "26.1",
+        "sent": "Sid elmondta az elméletét Marknak, de nem tudta meggyőzni.",
+        "question": "Ki nem tudott meggyőzni kit?",
+        "answerA": "Sid nem tudta meggyőzni Markot",
+        "answerB": "Mark nem tudta meggyőzni Sidet",
+        "correct": "A"
+    },
+    {
+        "id": "26.2",
+        "sent": "Sid elmondta az elméletét Marknak, de nem tudta megérteni.",
+        "question": "Ki nem tudott megérteni kit?",
+        "answerA": "Sid nem tudta megérteni Markot",
+        "answerB": "Mark nem tudta megérteni Sidet",
+        "correct": "B"
+    },
+    {
+        "id": "27.1",
+        "sent": "Susan tudta, hogy Ann fiának autóbalesete volt, úgyhogy elmondta neki.",
+        "question": "Ki mondta el a balesetet?",
+        "answerA": "Susan",
+        "answerB": "Ann",
+        "correct": "A"
+    },
+    {
+        "id": "27.2",
+        "sent": "Susan tudta, hogy Ann fiának autóbalesete volt, mert mondta neki.",
+        "question": "Ki mondta el a balesetet?",
+        "answerA": "Susan",
+        "answerB": "Ann",
+        "correct": "B"
+    },
+    {
+        "id": "29.1",
+        "sent": "A rendőrök elhagyták a házat és kimentek a garázsba, ahol megtalálták a gyilkos fegyvert.",
+        "question": "Hol találták meg a gyilkos fegyvert?",
+        "answerA": "A garázsban",
+        "answerB": "A házban",
+        "correct": "A"
+    },
+    {
+        "id": "29.2",
+        "sent": "A rendőrök elhagyták a házat és kimentek a garázsba, miután megtalálták a gyilkos fegyvert.",
+        "question": "Hol találták meg a gyilkos fegyvert?",
+        "answerA": "A garázsban",
+        "answerB": "A házban",
+        "correct": "B"
+    },
+    {
+        "id": "30.1",
+        "sent": "A festmény Mark nappalijában egy tölgyfát ábrázol. A könyvecpolc mellett van.",
+        "question": "Mi van a könyvespolc mellett?",
+        "answerA": "A festmény",
+        "answerB": "A tölgyfa",
+        "correct": "A"
+    },
+    {
+        "id": "30.2",
+        "sent": "A fetmény Mark nappalijában egy tölgyfát ábrázol. Egy ház mellett van.",
+        "question": "Mi van a ház mellett?",
+        "answerA": "A festmény",
+        "answerB": "A tölgyfa",
+        "correct": "B"
+    },
+    {
+        "id": "32.1",
+        "sent": "A lefolyót eldugította a haj. Ki kell tisztítani.",
+        "question": "Mit kell kitisztítani?",
+        "answerA": "A lefolyót",
+        "answerB": "A hajat",
+        "correct": "A"
+    },
+    {
+        "id": "32.2",
+        "sent": "A lefolyót eldugította a haj. Ki kell szedni.",
+        "question": "mit kell kiszedni?",
+        "answerA": "A lefolyót",
+        "answerB": "A hajat",
+        "correct": "B"
+    },
+    {
+        "id": "33.1",
+        "sent": "A megbeszélésem 4:00-kor kezdődött és 4:30-kor el kellett érnem a vonatot, szóval nem volt sok időm. Szerencsére rövid volt, szóval összejött.",
+        "question": "Mi volt rövid?",
+        "answerA": "A megbeszélés",
+        "answerB": "A vonat",
+        "correct": "A"
+    },
+    {
+        "id": "33.2",
+        "sent": "A megbeszélésem 4:00-kor kezdődött és 4:30-kor el kellett érnem a vonatot, szóval nem volt sok időm. Szerencsére késett, szóval összejött.",
+        "question": "Mi késett?",
+        "answerA": "A megbeszélés",
+        "answerB": "A vonat",
+        "correct": "B"
+    },
+    {
+        "id": "36.1",
+        "sent": "A szabadtéri koncert közepén elkezdett esni az eső, de 10-ig folytatódott.",
+        "question": "Mi folytatódott 10-ig?",
+        "answerA": "A koncert",
+        "answerB": "Az eső",
+        "correct": "A"
+    },
+    {
+        "id": "36.2",
+        "sent": "A szabadtéri koncert közepén elkezdett esni az eső, és 10-ig folytatódott.",
+        "question": "Mi folytatódott 10-ig?",
+        "answerA": "A koncert",
+        "answerB": "Az eső",
+        "correct": "B"
+    },
+    {
+        "id": "37.1",
+        "sent": "Egy régi rongyot használtam, hogy megtisztítsam a kést, aztán kidobtam a szemétbe.",
+        "question": "Mit dobtam ki a szemétbe?",
+        "answerA": "A rongyot",
+        "answerB": "A kést",
+        "correct": "A"
+    },
+    {
+        "id": "37.2",
+        "sent": "Egy régi rongyot használtam, hogy megtisztítsam a kést, aztán beraktam a fiókba.",
+        "question": "Mit raktam a fiókba?",
+        "answerA": "A rongyot",
+        "answerB": "A kést",
+        "correct": "B"
+    },
+    {
+        "id": "38.1",
+        "sent": "Ann megkérdezte Maryt, mikor zár a könyvtár, mert nem emlékezett.",
+        "question": "Ki nem emlékezett?",
+        "answerA": "Ann",
+        "answerB": "Mary",
+        "correct": "A"
+    },
+    {
+        "id": "38.2",
+        "sent": "Ann megkérdezte Maryt, mikor zár a könyvtár, de nem emlékezett.",
+        "question": "Ki nem emlékezett?",
+        "answerA": "Ann",
+        "answerB": "Mary",
+        "correct": "B"
+    },
+    {
+        "id": "39.1",
+        "sent": "Kiszedtem a vizespalackot a hátizsákból, hogy kéznél legyen.",
+        "question": "Mi legyen kéznél?",
+        "answerA": "A vízpalack",
+        "answerB": "A hátizsák",
+        "correct": "A"
+    },
+    {
+        "id": "39.2",
+        "sent": "Kiszedtem a vizespalackot a hátizsákból, hogy könnyebb legyen.",
+        "question": "Mi legyen könnyebb?",
+        "answerA": "A vízpalack",
+        "answerB": "A hátizsák",
+        "correct": "B"
+    },
+    {
+        "id": "40.1",
+        "sent": "Nem tudtam felrakni az edényt a polcra, mert túl nagy volt.",
+        "question": "Mi volt túl nagy?",
+        "answerA": "Az edény",
+        "answerB": "A polc",
+        "correct": "A"
+    },
+    {
+        "id": "40.2",
+        "sent": "Nem tudtam felrakni az edényt a polcra, mert túl magasan volt.",
+        "question": "Mi volt túl magasan?",
+        "answerA": "Az edény",
+        "answerB": "A polc",
+        "correct": "B"
+    },
+    {
+        "id": "42.1",
+        "sent": "Bob fizette Charlie egyetemi tanulmányait. Nagyon nagylelkű.",
+        "question": "Ki nagylelkű?",
+        "answerA": "Bob",
+        "answerB": "Charlie",
+        "correct": "A"
+    },
+    {
+        "id": "42.2",
+        "sent": "Bob fizette Charlie egyetemi tanulmányait. Nagyon hálás.",
+        "question": "Ki hálás?",
+        "answerA": "Bob",
+        "answerB": "Charlie",
+        "correct": "B"
+    },
+    {
+        "id": "43.1",
+        "sent": "Bob fizette Charlie egyetemi tanulmányait, de Charlie most úgy csinál, mintha semmi sem történt volna. Nagyon megsértődött.",
+        "question": "Ki sértődött meg?",
+        "answerA": "Bob",
+        "answerB": "Charlie",
+        "correct": "A"
+    },
+    {
+        "id": "43.2",
+        "sent": "Bob fizette Charlie egyetemi tanulmányait, de Charlie most úgy csinál, mintha semmi sem történt volna. Nagyon hálátlan.",
+        "question": "Ki hálátlan?",
+        "answerA": "Bob",
+        "answerB": "Charlie",
+        "correct": "B"
+    },
+    {
+        "id": "44.1",
+        "sent": "Bob kártyázott Adammel és nagyon vezetett. Ha Adamnek hirtelen nem lett volna szerencséje, nyert volna.",
+        "question": "Ki nyert volna?",
+        "answerA": "Bob",
+        "answerB": "Adam",
+        "correct": "A"
+    },
+    {
+        "id": "44.2",
+        "sent": "Bob kártyázott Adammel és nagyon vezetett. Ha Adamnek hirtelen nem lett volna szerencséje, vesztett volna.",
+        "question": "Ki vesztett volna?",
+        "answerA": "Bob",
+        "answerB": "Adam",
+        "correct": "B"
+    },
+    {
+        "id": "45.1",
+        "sent": "Adam nem hagyhatja itt a munkáját, amíg Bob meg nem érkezik leváltani. Ha Bob időben elindult volna otthonról, már elment volna.",
+        "question": "Ki ment volna el?",
+        "answerA": "Adam",
+        "answerB": "Bob",
+        "correct": "A"
+    },
+    {
+        "id": "45.2",
+        "sent": "Adam nem hagyhatja itt a munkáját, amíg Bob meg nem érkezik leváltani. Ha Bob időben elindult volna otthonról, már itt lenne.",
+        "question": "Ki lenne itt?",
+        "answerA": "Adam",
+        "answerB": "Bob",
+        "correct": "B"
+    },
+    {
+        "id": "46.1",
+        "sent": "Ha a szélhámos sikeresen átverte volna Samet, sok pénzt szerzett volna.",
+        "question": "Ki szerzett volna sok pénzt?",
+        "answerA": "A szélhámos",
+        "answerB": "Sam",
+        "correct": "A"
+    },
+    {
+        "id": "46.2",
+        "sent": "Ha a szélhámos sikeresen átverte volna Samet, sok pénzt vesztett volna.",
+        "question": "Ki vesztett volna sok pénzt?",
+        "answerA": "A szélhámos",
+        "answerB": "Sam",
+        "correct": "B"
+    },
+    {
+        "id": "47.1",
+        "sent": "Nyári délután volt, és a kutya a füvön ült. Egy idő után felkelt és átült egy helyre a fa alá, mert meleg volt.",
+        "question": "Mi volt meleg?",
+        "answerA": "A kutya",
+        "answerB": "A hely a fa alatt",
+        "correct": "A"
+    },
+    {
+        "id": "47.2",
+        "sent": "Nyári délután volt, és a kutya a füvön ült. Egy idő után felkelt és átült egy helyre a fa alá, mert hűvösebb volt.",
+        "question": "Mi volt hűvösebb?",
+        "answerA": "A kutya",
+        "answerB": "A hely a fa alatt",
+        "correct": "B"
+    },
+    {
+        "id": "48.1",
+        "sent": "A macska az egérlyuk mellett fekve várta az egeret, de túl türelmetlen volt.",
+        "question": "Mi volt túl türelmetlen?",
+        "answerA": "A macska",
+        "answerB": "Az egér",
+        "correct": "A"
+    },
+    {
+        "id": "48.2",
+        "sent": "A macska az egérlyuk mellett fekve várta az egeret, de túl óvatos volt.",
+        "question": "Mi volt túl óvatos?",
+        "answerA": "A macska",
+        "answerB": "Az egér",
+        "correct": "B"
+    },
+    {
+        "id": "49.1",
+        "sent": "Annénak lánya született múlt hónapban. Elbűvölő nő.",
+        "question": "Ki elbűvölő?",
+        "answerA": "Anne",
+        "answerB": "Anne lánya",
+        "correct": "A"
+    },
+    {
+        "id": "49.2",
+        "sent": "Annénak lánya született múlt hónapban. Elbűvölő kisbaba.",
+        "question": "Ki elbűvölő kisbaba?",
+        "answerA": "Anne",
+        "answerB": "Anne lánya",
+        "correct": "B"
+    },
+    {
+        "id": "50.1",
+        "sent": "Alice kétségbeesetten próbálta megakadályozni, hogy a lánya beszélgessen a partin, csodálkoztunk is, hogy miért viselkedik olyan furcsán.",
+        "question": "Ki viselkedett furcsán?",
+        "answerA": "Alice",
+        "answerB": "Alice lánya",
+        "correct": "A"
+    },
+    {
+        "id": "50.2",
+        "sent": "Alice kétségbeesetten próbálta megakadályozni, hogy a lánya ugasson a partin, csodálkoztunk is, hogy miért viselkedik olyan furcsán.",
+        "question": "Ki viselkedett furcsán?",
+        "answerA": "Alice",
+        "answerB": "Alice lánya",
+        "correct": "B"
+    },
+    {
+        "id": "51.1",
+        "sent": "Láttam Jimet egy vörös szakállas katonai egyenruhás csávóval kiabálni. Nem tudom miért tette, de boldogtalannak tűnt.",
+        "question": "Ki tűnt boldogtalannak?",
+        "answerA": "Jim",
+        "answerB": "Az egyenruhás csávó",
+        "correct": "A"
+    },
+    {
+        "id": "51.2",
+        "sent": "Láttam Jimet egy vörös szakállas katonai egyenruhás csávóval kiabálni. Nem tudom ki volt az, de boldogtalannak tűnt.",
+        "question": "Ki tűnt boldogtalannak?",
+        "answerA": "Jim",
+        "answerB": "Az egyenruhás csávó",
+        "correct": "B"
+    },
+    {
+        "id": "52.1",
+        "sent": "A hal megette a kukacot. Éhes volt.",
+        "question": "Ki volt éhes?",
+        "answerA": "A hal",
+        "answerB": "A kukac",
+        "correct": "A"
+    },
+    {
+        "id": "52.2",
+        "sent": "A hal megette a kukacot. Finom volt.",
+        "question": "Mi volt finom?",
+        "answerA": "A hal",
+        "answerB": "A kukac",
+        "correct": "B"
+    },
+    {
+        "id": "53.1",
+        "sent": "Megpróbáltam kinyitni a zárat a kulccsal, de valaki rágógumit rakott a kulcslyukba és nem tudtam berakni.",
+        "question": "Mit nem tudtam berakni?",
+        "answerA": "A kulcsot",
+        "answerB": "A rágógumit",
+        "correct": "A"
+    },
+    {
+        "id": "53.2",
+        "sent": "Megpróbáltam kinyitni a zárat a kulccsal, de valaki rágógumit rakott a kulcslyukba és nem tudtam kivenni.",
+        "question": "Mit nem tudtam kivenni?",
+        "answerA": "A kulcsot",
+        "answerB": "A rágógumit",
+        "correct": "B"
+    },
+    {
+        "id": "54.1",
+        "sent": "A kutya üldözte a macskát, ami felfutott egy fára. A tövénél várt.",
+        "question": "Mi várt a fa tövénél?",
+        "answerA": "A kutya",
+        "answerB": "A macska",
+        "correct": "A"
+    },
+    {
+        "id": "54.2",
+        "sent": "A kutya üldözte a macskát, ami felfutott egy fára. A tetején várt.",
+        "question": "Mi várt a fa tetején?",
+        "answerA": "A kutya",
+        "answerB": "A macska",
+        "correct": "B"
+    },
+    {
+        "id": "55.1",
+        "sent": "Egy fa lezuhant a viharban és áttörte a házam tetejét. Most el kell szállíttatnom.",
+        "question": "Mit kell elszállíttatnom?",
+        "answerA": "A fát",
+        "answerB": "A tetőt",
+        "correct": "A"
+    },
+    {
+        "id": "55.2",
+        "sent": "Egy fa lezuhant a viharban és áttörte a házam tetejét. Most meg kell javíttatnom.",
+        "question": "Mit kell megjavíttatnom?",
+        "answerA": "A fát",
+        "answerB": "A tetőt",
+        "correct": "B"
+    },
+    {
+        "id": "56.1",
+        "sent": "Az ügyfél besétált a bankba és leszúrta az egyik bankpénztárost. Egyből elvitték a rendőrségre.",
+        "question": "Kit vittek el a rendőrségre?",
+        "answerA": "Az ügyfelet",
+        "answerB": "A bankpénztárost",
+        "correct": "A"
+    },
+    {
+        "id": "56.2",
+        "sent": "Az ügyfél besétált a bankba és leszúrta az egyik bankpénztárost. Egyből elvitték a kórházba.",
+        "question": "Kit vittek el a kórházba?",
+        "answerA": "Az ügyfelet",
+        "answerB": "A bankpénztárost",
+        "correct": "B"
+    },
+    {
+        "id": "57.1",
+        "sent": "John éppen könyvtárban kutatott, amikor meghallotta, hogy egy férfi dúdol és fütyül. Nagyon ideges volt.",
+        "question": "Ki volt ideges?",
+        "answerA": "John",
+        "answerB": "A férfi",
+        "correct": "A"
+    },
+    {
+        "id": "57.2",
+        "sent": "John éppen könyvtárban kutatott, amikor meghallotta, hogy egy férfi dúdol és fütyül. Nagyon idegesítő volt.",
+        "question": "Ki volt idegesítő?",
+        "answerA": "John",
+        "answerB": "A férfi",
+        "correct": "B"
+    },
+    {
+        "id": "58.1",
+        "sent": "John épp a parkban kocogott, amikor meglátott egy férfit görögdinnyékkel zsonglőrködni. Nagyon le volt nyűgözve.",
+        "question": "Ki volt lenyűgözve?",
+        "answerA": "John",
+        "answerB": "A zsonglőr",
+        "correct": "A"
+    },
+    {
+        "id": "58.2",
+        "sent": "John épp a parkban kocogott, amikor meglátott egy férfit görögdinnyékkel zsonglőrködni. Nagyon lenyűgöző volt.",
+        "question": "Ki volt lenyűgöző?",
+        "answerA": "John",
+        "answerB": "A zsonglőr",
+        "correct": "B"
+    },
+    {
+        "id": "59.1",
+        "sent": "Bob összeesett a járdán. Látta, hogy Carl a segítségére siet. Nagyon beteg volt.",
+        "question": "Ki volt beteg?",
+        "answerA": "Bob",
+        "answerB": "Carl",
+        "correct": "A"
+    },
+    {
+        "id": "59.2",
+        "sent": "Bob összeesett a járdán. Látta, hogy Carl a segítségére siet. Nagyon aggódott.",
+        "question": "Ki aggódott?",
+        "answerA": "Bob",
+        "answerB": "Carl",
+        "correct": "B"
+    },
+    {
+        "id": "60.1",
+        "sent": "Sam és Amy szenvedélyesen szeretik egymást, de Amy szüleinek ez nem tetszik, mert tizenöt évesek.",
+        "question": "Kik tizenöt évesek?",
+        "answerA": "Sam és Amy",
+        "answerB": "Amy szülei",
+        "correct": "A"
+    },
+    {
+        "id": "60.2",
+        "sent": "Sam és Amy szenvedélyesen szeretik egymást, de Amy szüleinek ez nem tetszik, mert sznobok.",
+        "question": "Kik sznobok?",
+        "answerA": "Sam és Amy",
+        "answerB": "Amy szülei",
+        "correct": "B"
+    },
+    {
+        "id": "61.1",
+        "sent": "Mark sok hazugságot mondott magáról Pete-nek, amiket Pete beleírt a könyvébe. Őszintébbnek kellett volna lennie.",
+        "question": "Kinek kellett volna őszintébbnek lennie?",
+        "answerA": "Mark",
+        "answerB": "Pete",
+        "correct": "A"
+    },
+    {
+        "id": "61.2",
+        "sent": "Mark sok hazugságot mondott magáról Pete-nek, amiket Pete beleírt a könyvébe. Szkeptikusabbnak kellett volna lennie.",
+        "question": "Kinek kellett volna szkeptikusabbnak lennie?",
+        "answerA": "Mark",
+        "answerB": "Pete",
+        "correct": "B"
+    },
+    {
+        "id": "62.1",
+        "sent": "Joe eladta a házát és vett egy újat pár mérfölddel arrébb. Kedden költözik ki.",
+        "question": "Melyik házból költözik ki?",
+        "answerA": "A régi házból",
+        "answerB": "Az új házból",
+        "correct": "A"
+    },
+    {
+        "id": "62.2",
+        "sent": "Joe eladta a házát és vett egy újat pár mérfölddel arrébb. Kedden költözik be.",
+        "question": "Melyik házba költözik be?",
+        "answerA": "A régi házba",
+        "answerB": "Az új házba",
+        "correct": "B"
+    },
+    {
+        "id": "64.1",
+        "sent": "Mary elővette a fuvoláját és eljátszotta az egyik kedvenc darabját. Már gyerekkora óta megvan neki.",
+        "question": "Mi van meg neki?",
+        "answerA": "A fuvola",
+        "answerB": "A darab",
+        "correct": "A"
+    },
+    {
+        "id": "64.2",
+        "sent": "Mary elővette a fuvoláját és eljátszotta az egyik kedvenc darabját. Már gyerekkora óta a kedvence.",
+        "question": "Mi a kedvence?",
+        "answerA": "A fuvolát",
+        "answerB": "A darabot",
+        "correct": "B"
+    },
+    {
+        "id": "65.1",
+        "sent": "Sam odahúzott egy széket a zongorához, de rossz volt, szóval állnia kellett.",
+        "question": "Mi volt rossz?",
+        "answerA": "A szék",
+        "answerB": "A zongora",
+        "correct": "A"
+    },
+    {
+        "id": "65.2",
+        "sent": "Sam odahúzott egy széket a zongorához, de rossz volt, szóval énekelt helyette.",
+        "question": "Mi volt rossz?",
+        "answerA": "A szék",
+        "answerB": "A zongora",
+        "correct": "B"
+    },
+    {
+        "id": "66.1",
+        "sent": "Esett az eső, úgyhogy a hátizsákomba tettem az újságot, hogy ne ázzon meg.",
+        "question": "Mi ne ázzon meg?",
+        "answerA": "Az újság",
+        "answerB": "A hátizsák",
+        "correct": "A"
+    },
+    {
+        "id": "66.2",
+        "sent": "Esett az eső, úgyhogy a hátizsákomra tettem az újságot, hogy ne ázzon meg.",
+        "question": "Mi ne ázzon meg?",
+        "answerA": "Az újság",
+        "answerB": "A hátizsák",
+        "correct": "B"
+    },
+    {
+        "id": "67.1",
+        "sent": "Sara kikölcsönözte a könyvet a könyvtárból, mert szüksége van rá egy cikkhez, amin dolgozik. Elolvassa, amikor hazaér.",
+        "question": "Mit olvas el Sara, amikor hazaér?",
+        "answerA": "A könyvet",
+        "answerB": "A cikket",
+        "correct": "A"
+    },
+    {
+        "id": "67.2",
+        "sent": "Sara kikölcsönözte a könyvet a könyvtárból, mert szüksége van rá egy cikkhez, amin dolgozik. Megírja, amikor hazaér.",
+        "question": "Mit ír meg Sara, amikor hazaér?",
+        "answerA": "A könyvet",
+        "answerB": "A cikket",
+        "correct": "B"
+    },
+    {
+        "id": "68.1",
+        "sent": "Reggel Joey homokvárat épített a strandon, és zászlót rakott a legmagasabb toronyba, de délután a dagály lerombolta.",
+        "question": "Mit rombolt le a szél?",
+        "answerA": "A homokvárat",
+        "answerB": "A zászlót",
+        "correct": "A"
+    },
+    {
+        "id": "68.2",
+        "sent": "Reggel Joey homokvárat épített a strandon, és zászlót rakott a legmagasabb toronyba, de délután a szél lefújta.",
+        "question": "Mit fújt le a szél?",
+        "answerA": "A homokvárat",
+        "answerB": "A zászlót",
+        "correct": "B"
+    },
+    {
+        "id": "69.1",
+        "sent": "Jane bekopogtatott Susanhez, de senki nem nyitott ajtót. Csalódott volt.",
+        "question": "Ki volt csalódott?",
+        "answerA": "Jane",
+        "answerB": "Susan",
+        "correct": "A"
+    },
+    {
+        "id": "69.2",
+        "sent": "Jane bekopogtatott Susanhez, de senki nem nyitott ajtót. Házon kívül volt.",
+        "question": "Ki volt házon kívül?",
+        "answerA": "Jane",
+        "answerB": "Susan",
+        "correct": "B"
+    },
+    {
+        "id": "70.1",
+        "sent": "Jane kopogott az ajtón, és Susan kinyitotta. Kihívta őt.",
+        "question": "Ki hívott kit?",
+        "answerA": "Jane hívta Susant.",
+        "answerB": "Susah hívta Janet.",
+        "correct": "A"
+    },
+    {
+        "id": "70.2",
+        "sent": "Jane kopogott az ajtón, és Susan kinyitotta. Behívta őt.",
+        "question": "Ki hívott kit?",
+        "answerA": "Jane hívta Susant.",
+        "answerB": "Susah hívta Janet.",
+        "correct": "B"
+    },
+    {
+        "id": "71.1",
+        "sent": "Sam franciaórákat vett Adamtől, mert folyékonyan akar beszélni franciául.",
+        "question": "Ki akar folyékonyan beszélni franciául?",
+        "answerA": "Sam",
+        "answerB": "Adam",
+        "correct": "A"
+    },
+    {
+        "id": "71.2",
+        "sent": "Sam franciaórákat vett Adamtől, mert folyékonyan tud beszélni franciául.",
+        "question": "Ki tud folyékonyan beszélni franciául?",
+        "answerA": "Sam",
+        "answerB": "Adam",
+        "correct": "B"
+    },
+    {
+        "id": "72.1",
+        "sent": "A tóhoz vezető út el volt torlaszolva, szóval nem tudtuk használni.",
+        "question": "Mit nem tudtunk használni?",
+        "answerA": "Az utat",
+        "answerB": "A tavat",
+        "correct": "A"
+    },
+    {
+        "id": "72.2",
+        "sent": "A tóhoz vezető út el volt torlaszolva, szóval nem tudtuk megközelíteni.",
+        "question": "Mit nem tudtunk megközelíteni?",
+        "answerA": "A tavat",
+        "answerB": "Az utat",
+        "correct": "B"
+    },
+    {
+        "id": "73.1",
+        "sent": "A napot egész reggel egy nagy felhő takarta el, de szerencsére, mire elkezdődött a piknik, előbukkant.",
+        "question": "Mi bukkant elő?",
+        "answerA": "A nap",
+        "answerB": "A felhő",
+        "correct": "A"
+    },
+    {
+        "id": "73.2",
+        "sent": "A napot egész reggel egy nagy felhő takarta el, de szerencsére, mire elkezdődött a piknik, eltűnt.",
+        "question": "Mi tűnt el?",
+        "answerA": "A nap",
+        "answerB": "A felhő",
+        "correct": "B"
+    },
+    {
+        "id": "74.1",
+        "sent": "A tóhoz mentünk, mert az óceánpartnál cápát láttak, szóval az biztonságosabb volt az úszáshoz.",
+        "question": "Mi volt biztonságosabb az úszáshoz?",
+        "answerA": "A tó",
+        "answerB": "Az óceánpart",
+        "correct": "A"
+    },
+    {
+        "id": "74.2",
+        "sent": "A tóhoz mentünk, mert az óceánpartnál cápát láttak, szóval az veszélyes volt az úszáshoz.",
+        "question": "Mi volt veszélyes az úszáshoz?",
+        "answerA": "A tó",
+        "answerB": "Az óceánpart",
+        "correct": "B"
+    },
+    {
+        "id": "75.1",
+        "sent": "Sam megpróbált pásztorokat festeni juhokkal, de végül inkább golfozóknak néztek ki.",
+        "question": "Mik néztek ki golfozóknak?",
+        "answerA": "A pásztorok",
+        "answerB": "A juhok",
+        "correct": "A"
+    },
+    {
+        "id": "75.2",
+        "sent": "Sam megpróbált pásztorokat festeni juhokkal, de végül inkább kutyáknak néztek ki.",
+        "question": "Mik néztek ki kutyáknak?",
+        "answerA": "A pásztorok",
+        "answerB": "A juhok",
+        "correct": "B"
+    },
+    {
+        "id": "76.1",
+        "sent": "Mary ágyba fektette a lányát, Anne-t, hogy dolgozhasson.",
+        "question": "Ki dolgozik?",
+        "answerA": "Mary",
+        "answerB": "Mary lánya",
+        "correct": "A"
+    },
+    {
+        "id": "76.2",
+        "sent": "Mary ágyba fektette a lányát, Anne-t, hogy aludhasson.",
+        "question": "Ki alszik?",
+        "answerA": "Mary",
+        "answerB": "Mary lánya",
+        "correct": "B"
+    },
+    {
+        "id": "78.1",
+        "sent": "Thomson 1765-ben látogatta meg Cooper sírját. Akkorra már öt éve utazgatott.",
+        "question": "Ki utazgatott öt éve?",
+        "answerA": "Thomson",
+        "answerB": "Cooper",
+        "correct": "A"
+    },
+    {
+        "id": "78.2",
+        "sent": "Thomson 1765-ben látogatta meg Cooper sírját. Akkorra már öt éve meghalt.",
+        "question": "Ki halt meg öt éve?",
+        "answerA": "Thomson",
+        "answerB": "Cooper",
+        "correct": "B"
+    },
+    {
+        "id": "79.1",
+        "sent": "Jacksonra nagy hatással volt Arnold, hiába élt két évszázaddal később.",
+        "question": "Ki élt később?",
+        "answerA": "Jackson",
+        "answerB": "Arnold",
+        "correct": "A"
+    },
+    {
+        "id": "79.2",
+        "sent": "Jacksonra nagy hatással volt Arnold, hiába élt két évszázaddal korábban.",
+        "question": "Ki élt korábban?",
+        "answerA": "Jackson",
+        "answerB": "Arnold",
+        "correct": "B"
+    },
+    {
+        "id": "81.1",
+        "sent": "Nem tudom kivágni a fát azzal a fejszével, túl vastag.",
+        "question": "Mi túl vastag",
+        "answerA": "A fa",
+        "answerB": "A vejsze",
+        "correct": "A"
+    },
+    {
+        "id": "81.2",
+        "sent": "Nem tudom kivágni a fát azzal a fejszével, túl kicsi.",
+        "question": "Mi túl kicsi?",
+        "answerA": "A fa",
+        "answerB": "A fejsze",
+        "correct": "B"
+    },
+    {
+        "id": "82.1",
+        "sent": "A rókák folyton bejönnek éjszakánként és megtámadják a csirkéket. Meg kell ölnöm őket.",
+        "question": "Miket kell megölnöm?",
+        "answerA": "A rókákat",
+        "answerB": "A csirkéket",
+        "correct": "A"
+    },
+    {
+        "id": "82.2",
+        "sent": "A rókák folyton bejönnek éjszakánként és megtámadják a csirkéket. Meg kell védenem őket.",
+        "question": "Miket kell megvédenem?",
+        "answerA": "A rókákat",
+        "answerB": "A csirkéket",
+        "correct": "B"
+    },
+    {
+        "id": "83.1",
+        "sent": "A rókák folyton bejönnek éjszakánként és megtámadják a csirkéket. Nagyon felbátorodtak.",
+        "question": "Mik bátorodtak fel?",
+        "answerA": "A rókák",
+        "answerB": "A csirkék",
+        "correct": "A"
+    },
+    {
+        "id": "83.2",
+        "sent": "A rókák folyton bejönnek éjszakánként és megtámadják a csirkéket. Nagyon félnek.",
+        "question": "Mik félnek?",
+        "answerA": "A rókák",
+        "answerB": "A csirkék",
+        "correct": "B"
+    },
+    {
+        "id": "84.1",
+        "sent": "Fred eltakarta kezeivel a szemeit, mert a szél homokot fújt mindenhova. Csak akkor nyitotta ki őket, mikor elállt a szél.",
+        "question": "Mit nyitott ki Fred?",
+        "answerA": "A szemeit",
+        "answerB": "A kezeit",
+        "correct": "A"
+    },
+    {
+        "id": "84.2",
+        "sent": "Fred eltakarta kezeivel a szemeit, mert a szél homokot fújt mindenhova. Csak akkor nyitotta szét őket, mikor elállt a szél.",
+        "question": "Mit nyitott szét Fred?",
+        "answerA": "A szemeit",
+        "answerB": "A kezeit",
+        "correct": "B"
+    },
+    {
+        "id": "85.1",
+        "sent": "Régebben Terpsichore-nak hívták a színésznőt, de Tinára változtatta pár évvel ezelőtt, mert túl nehéz kiejteni.",
+        "question": "Mit túl nehéz kiejteni?",
+        "answerA": "Terpsichore",
+        "answerB": "Tina",
+        "correct": "A"
+    },
+    {
+        "id": "85.2",
+        "sent": "Régebben Terpsichore-nak hívták a színésznőt, de Tinára változtatta pár évvel ezelőtt, mert könnyebb kiejteni.",
+        "question": "Mit könnyebb kiejteni?",
+        "answerA": "Terpsichore",
+        "answerB": "Tina",
+        "correct": "B"
+    },
+    {
+        "id": "86.1",
+        "sent": "Fred tévét nézett, amít George elment bevásárolni. Egy órával később feltápászkodott.",
+        "question": "Ki tápászkodott fel?",
+        "answerA": "Fred",
+        "answerB": "George",
+        "correct": "A"
+    },
+    {
+        "id": "86.2",
+        "sent": "Fred tévét nézett, amít George elment bevásárolni. Egy órával később visszatért.",
+        "question": "Ki tért vissza?",
+        "answerA": "Fred",
+        "answerB": "George",
+        "correct": "B"
+    },
+    {
+        "id": "87.1",
+        "sent": "Frednek be kellett volna kapcsolnia a mosogatógépet, de halogatta, mert tévét akart nézni. Mivel a műsor unalmas volt, meggondolta magát és bekapcsolta.",
+        "question": "Mit kapcsolt be Fred?",
+        "answerA": "A mosogatógépet",
+        "answerB": "A tévét",
+        "correct": "A"
+    },
+    {
+        "id": "87.2",
+        "sent": "Frednek be kellett volna kapcsolnia a mosogatógépet, de halogatta, mert tévét akart nézni. Mivel a műsor unalmas volt, meggondolta magát és kikapcsolta.",
+        "question": "Mit kapcsolt ki Fred?",
+        "answerA": "A mosogatógépet",
+        "answerB": "A tévét",
+        "correct": "B"
+    },
+    {
+        "id": "88.1",
+        "sent": "Fred az egyetlen élő ember, aki emlékszik a dédnagyapámra. Figyelemre méltó ember.",
+        "question": "Ki figyelemre méltó ember?",
+        "answerA": "Fred",
+        "answerB": "A dédnagyapám",
+        "correct": "A"
+    },
+    {
+        "id": "88.2",
+        "sent": "Fred az egyetlen élő ember, aki emlékszik a dédnagyapámra. Figyelemre méltó ember volt.",
+        "question": "Ki volt figyelemre méltó ember?",
+        "answerA": "Fred",
+        "answerB": "A dédnagyapám",
+        "correct": "B"
+    },
+    {
+        "id": "89.1",
+        "sent": "Fred az egyetlen élő ember, aki még emlékszik apámra kisbabaként. Mikor Fred először látta apámat, tizenkét éves volt.",
+        "question": "Ki volt tizenkét éves?",
+        "answerA": "Fred",
+        "answerB": "Az apám",
+        "correct": "A"
+    },
+    {
+        "id": "89.2",
+        "sent": "Fred az egyetlen élő ember, aki még emlékszik apámra kisbabaként. Mikor Fred először látta apámat, tizenkét hónapos volt.",
+        "question": "Ki volt tizenkét hónapos?",
+        "answerA": "Fred",
+        "answerB": "Az apám",
+        "correct": "B"
+    },
+    {
+        "id": "90.1",
+        "sent": "Júliusban Kamcsatka hadat üzent Jakutszknak. Mivel Jakutszk hadserege tízszer nagyobb és sokkal jobban felszerelt volt, hetek alatt legyőzték őket.",
+        "question": "Kiket győztek le?",
+        "answerA": "Kamcsatkát",
+        "answerB": "Jakutszkot",
+        "correct": "A"
+    },
+    {
+        "id": "90.2",
+        "sent": "Júliusban Kamcsatka hadat üzent Jakutszknak. Mivel Jakutszk hadserege tízszer nagyobb és sokkal jobban felszerelt volt, hetek alatt győzedelmeskedtek.",
+        "question": "Kik győzedelmeskedtek?",
+        "answerA": "Kamcsatka",
+        "answerB": "Jakutszk",
+        "correct": "B"
+    },
+    {
+        "id": "91.1",
+        "sent": "Elizabeth Spártából Trójába költöztette a cégét, hogy spóroljon az adón. Az adók ott sokkal magasabbak.",
+        "question": "Hol magasabbak az adók?",
+        "answerA": "Spártában",
+        "answerB": "Trójában",
+        "correct": "A"
+    },
+    {
+        "id": "91.2",
+        "sent": "Elizabeth Spártából Trójába költöztette a cégét, hogy spóroljon az adón. Az adók ott sokkal alacsonyabbak.",
+        "question": "Hol alacsonyabbak az adók?",
+        "answerA": "Spártában",
+        "answerB": "Trójában",
+        "correct": "B"
+    },
+    {
+        "id": "93.1",
+        "sent": "Nézd! Egy halacska van a kacsa alatt!  Gyorsan biztonságba kell jutnia!",
+        "question": "Minek kell gyorsan biztonságba jutnia?",
+        "answerA": "A halacskának",
+        "answerB": "A kacsának",
+        "correct": "A"
+    },
+    {
+        "id": "93.2",
+        "sent": "Nézd! Egy cápa van a kacsa alatt! Gyorsan biztonságba kell jutnia!",
+        "question": "Minek kell gyorsan biztonságba jutnia?",
+        "answerA": "A cápának",
+        "answerB": "A kacsának",
+        "correct": "B"
+    },
+    {
+        "id": "94.1",
+        "sent": "Túl sok szarvas él a parkban, ezért betelepítettek egy kisebb falkányi farkast. A populációnak növekednie kellene a következő években.",
+        "question": "Melyik populáció fog növekedni?",
+        "answerA": "A farkasoké",
+        "answerB": "A szarvasoké",
+        "correct": "A"
+    },
+    {
+        "id": "94.2",
+        "sent": "Túl sok szarvas él a parkban, ezért betelepítettek egy kisebb falkányi farkast. A populációnak csökkennie kellene a következő években.",
+        "question": "Melyik populáció fog csökkenni?",
+        "answerA": "A farkasoké",
+        "answerB": "A szarvasoké",
+        "correct": "B"
+    },
+    {
+        "id": "95.1",
+        "sent": "A régészek arra a következtetésre jutottak, hogy már 20 000 évvel ezelőtt is éltek emberek Laputában. A folyóparton vadásztak bizonyítékokra.",
+        "question": "Kik vadásztak bizonyítékokra?",
+        "answerA": "A régészek",
+        "answerB": "A prehistorikus emberek",
+        "correct": "A"
+    },
+    {
+        "id": "95.2",
+        "sent": "A régészek arra a következtetésre jutottak, hogy már 20 000 évvel ezelőtt is éltek emberek Laputában. A folyóparton vadásztak szarvasra.",
+        "question": "Kik vadásztak szarvasra?",
+        "answerA": "A régészek",
+        "answerB": "A prehistorikus emberek",
+        "correct": "B"
+    },
+    {
+        "id": "96.1",
+        "sent": "A tudósok három nemrég felfedezett halfajt tanulmányoznak az Indiai-óceánban. Két éve kezdték el.",
+        "question": "Kik vagy mik kezdték el két éve?",
+        "answerA": "A tudósok",
+        "answerB": "A halak",
+        "correct": "A"
+    },
+    {
+        "id": "96.2",
+        "sent": "A tudósok három nemrég felfedezett halfajt tanulmányoznak az Indiai-óceánban. Két éve tűntek fel.",
+        "question": "Kik vagy miik tűntek fel két éve?",
+        "answerA": "A tudósok",
+        "answerB": "A halak",
+        "correct": "B"
+    },
+    {
+        "id": "99.1",
+        "sent": "Betettem a tortát a hűtőbe. Sok vaj van benne.",
+        "question": "Miben van sok vaj?",
+        "answerA": "A tortában",
+        "answerB": "A hűtőben",
+        "correct": "A"
+    },
+    {
+        "id": "99.2",
+        "sent": "Betettem a tortát a hűtőbe. Sok maradék van benne.",
+        "question": "Miben van sok maradék?",
+        "answerA": "A tortában",
+        "answerB": "A hűtőben",
+        "correct": "B"
+    },
+    {
+        "id": "100.1",
+        "sent": "Sam eltörte mindkét bokáját és jelenleg mankóval jár. De nagyjából egy hónap múlva már jók lesznek.",
+        "question": "Mik lesznek jók?",
+        "answerA": "a bokái",
+        "answerB": "a mankók",
+        "correct": "A"
+    },
+    {
+        "id": "100.2",
+        "sent": "Sam eltörte mindkét bokáját és jelenleg mankóval jár. De nagyjából egy hónap múlva már fölöslegesek lesznek.",
+        "question": "Mik lesznek fölöslegesek?",
+        "answerA": "a bokái",
+        "answerB": "a mankók",
+        "correct": "B"
+    },
+    {
+        "id": "101.1",
+        "sent": "Amikor a törvény támogatói bementek a városházára, meglepődve tapasztalták, hogy a terem tele van ellenzőkkel. Kisebbségben voltak.",
+        "question": "Kik voltak kisebbségben?",
+        "answerA": "A támogatók",
+        "answerB": "Az ellenzők",
+        "correct": "A"
+    },
+    {
+        "id": "101.2",
+        "sent": "Amikor a törvény támogatói bementek a városházára, meglepődve tapasztalták, hogy a terem tele van ellenzőkkel. Többségben voltak.",
+        "question": "Kik voltak többségben?",
+        "answerA": "A támogatók",
+        "answerB": "Az ellenzők",
+        "correct": "B"
+    },
+    {
+        "id": "102.1",
+        "sent": "Mindenk nagyon szerette a zabkekszet; csak pár embernek tetszett a csokis keksz. Legközelebb többet kell csinálnunk belőle.",
+        "question": "Miből kell többet csinálnunk?",
+        "answerA": "A zabkekszből",
+        "answerB": "A csokis kekszből",
+        "correct": "A"
+    },
+    {
+        "id": "102.2",
+        "sent": "Mindenk nagyon szerette a zabkekszet; csak pár embernek tetszett a csokis keksz. Legközelebb kevesebbet kell csinálnunk belőle.",
+        "question": "Miből kell kevesebbet csinálnunk?",
+        "answerA": "A zabkekszből",
+        "answerB": "A csokis kekszből",
+        "correct": "B"
+    },
+    {
+        "id": "103.1",
+        "sent": "Reméltük, hogy a nézőtéren minden székre tudunk rakni egy példányt a hírlevelünkből, de egyszerűen túl kevés volt belőle.",
+        "question": "Miből volt túl kevés?",
+        "answerA": "A hírlevél példányaiból",
+        "answerB": "A székekből",
+        "correct": "A"
+    },
+    {
+        "id": "103.2",
+        "sent": "Reméltük, hogy a nézőtéren minden székre tudunk rakni egy példányt a hírlevelünkből, de egyszerűen túl sok volt belőle.",
+        "question": "Miből volt túl sok?",
+        "answerA": "A hírlevél példányaiból",
+        "answerB": "A székekből",
+        "correct": "B"
+    },
+    {
+        "id": "105.1",
+        "sent": "Nem találtam kanalat, szóval egy tollal próbáltam megkeverni a kávémat. Ez rossz ötletnek bizonyult, ugyanis tele lett kávéval.",
+        "question": "Mi lett tele kávéval?",
+        "answerA": "A toll",
+        "answerB": "A kávé",
+        "correct": "A"
+    },
+    {
+        "id": "105.2",
+        "sent": "Nem találtam kanalat, szóval egy tollal próbáltam megkeverni a kávémat. Ez rossz ötletnek bizonyult, ugyanis tele lett tintával.",
+        "question": "Mi lett tele tintával?",
+        "answerA": "A toll",
+        "answerB": "A kávé",
+        "correct": "B"
+    },
+    {
+        "id": "106.1",
+        "sent": "Steve mindenben Fred példáját követi. Nagyon csodálja őt.",
+        "question": "Ki csodál kit?",
+        "answerA": "Steve csodálja Fredet",
+        "answerB": "Fred csodálja Steve-et",
+        "correct": "A"
+    },
+    {
+        "id": "106.2",
+        "sent": "Steve mindenben Fred példáját követi. Nagyon befolyásolja őt.",
+        "question": "Ki befolyásol kit?",
+        "answerA": "Steve befolyásolja Fredet",
+        "answerB": "Fred befolyásolja Steve-et",
+        "correct": "B"
+    },
+    {
+        "id": "107.1",
+        "sent": "Az asztal nem fér át az ajtón, mert túl széles.",
+        "question": "Mi túl széles?",
+        "answerA": "Az asztal",
+        "answerB": "Az ajtó",
+        "correct": "A"
+    },
+    {
+        "id": "107.2",
+        "sent": "Az asztal nem fér át az ajtón, mert túl keskeny.",
+        "question": "Mi túl keskeny?",
+        "answerA": "Az asztal",
+        "answerB": "Az ajtó",
+        "correct": "B"
+    },
+    {
+        "id": "108.1",
+        "sent": "Grace örömmel elcserélte velem a pulcsiját a kabátomra. Azt hiszi, slamposnak néz ki benne.",
+        "question": "Miben néz ki slamposnak Grace?",
+        "answerA": "A pulcsiban",
+        "answerB": "A kabátban",
+        "correct": "A"
+    },
+    {
+        "id": "108.2",
+        "sent": "Grace örömmel elcserélte velem a pulcsiját a kabátomra. Azt hiszi, jól néz ki benne.",
+        "question": "Miben néz ki jól Grace?",
+        "answerA": "A pulcsiban",
+        "answerB": "A kabátban",
+        "correct": "B"
+    },
+    {
+        "id": "111.1",
+        "sent": "John megígérte Billnek, hogy elmehet, szóval egy órával később el is ment.",
+        "question": "Ki ment el?",
+        "answerA": "John",
+        "answerB": "Bill",
+        "correct": "A"
+    },
+    {
+        "id": "111.2",
+        "sent": "John megígérte Billnek, hogy elmegy, szóval egy órával később el is ment.",
+        "question": "Ki ment el?",
+        "answerA": "John",
+        "answerB": "Bill",
+        "correct": "B"
+    },
+    {
+        "id": "112.1",
+        "sent": "Sam Goodman monográfiája a spártai tábornok Xenophanészról jól tükrözi azokat a nehézségeket, amelyekkel kutatása során szembesült.",
+        "question": "Ki szembesült nehézségekkel?",
+        "answerA": "Sam",
+        "answerB": "Xenophanész",
+        "correct": "A"
+    },
+    {
+        "id": "112.2",
+        "sent": "Sam Goodman monográfiája a spártai tábornok Xenophanészról jól tükrözi azokat a nehézségeket, amelyekkel gyerekkora során szembesült.",
+        "question": "Ki szembesült nehézségekkel?",
+        "answerA": "Sam",
+        "answerB": "Xenophanész",
+        "correct": "B"
+    },
+    {
+        "id": "114.1",
+        "sent": "Jane kopogott Susan ajtaján, de nem kapott választ.",
+        "question": "Ki nem kapott választ?",
+        "answerA": "Jane",
+        "answerB": "Susan",
+        "correct": "A"
+    },
+    {
+        "id": "114.2",
+        "sent": "Jane kopogott Susan ajtaján, de nem válaszolt.",
+        "question": "Ki nem válaszolt?",
+        "answerA": "Jane",
+        "answerB": "Susan",
+        "correct": "B"
+    },
+    {
+        "id": "115.1",
+        "sent": "Joe kifizette a nyomozót, miután megkapta a zárójelentést az ügyről.",
+        "question": "Ki kapta meg a zárójelentést?",
+        "answerA": "Joe",
+        "answerB": "A nyomozó",
+        "correct": "A"
+    },
+    {
+        "id": "115.2",
+        "sent": "Joe kifizette a nyomozót, miután leadta a zárójelentést az ügyről.",
+        "question": "Ki adta le a zárójelentést?",
+        "answerA": "Joe",
+        "answerB": "A nyomozó",
+        "correct": "B"
+    },
+    {
+        "id": "116.1",
+        "sent": "Beth nem lett mérges Sallyre, aki félbeszakította, mert megállt és elszámolt tízig.",
+        "question": "Ki számolt el tízig?",
+        "answerA": "Beth",
+        "answerB": "Sally",
+        "correct": "A"
+    },
+    {
+        "id": "116.2",
+        "sent": "Beth nem lett mérges Sallyre, aki félbeszakította, mert megállt és bocsánatot kért.",
+        "question": "Ki kért bocsánatot?",
+        "answerA": "Beth",
+        "answerB": "Sally",
+        "correct": "B"
+    },
+    {
+        "id": "117.1",
+        "sent": "Jim jelzett a csaposnak és intett az üres pohara felé.",
+        "question": "Kié az üres pohár?",
+        "answerA": "Jimé",
+        "answerB": "A csaposé",
+        "correct": "A"
+    },
+    {
+        "id": "117.2",
+        "sent": "Jim jelzett a csaposnak és intett a mosdókulcsa felé.",
+        "question": "Kié a mosdókulcs?",
+        "answerA": "Jimé",
+        "answerB": "A csaposé",
+        "correct": "B"
+    },
+    {
+        "id": "118.1",
+        "sent": "Dán hátra ült, Bill előre, mert későn stoppolta le.",
+        "question": "Ki stoppolta le későn?",
+        "answerA": "Dan",
+        "answerB": "Bill",
+        "correct": "A"
+    },
+    {
+        "id": "118.2",
+        "sent": "Dan hátra ült, Bill előre, mert előbb stoppolta le.",
+        "question": "Ki stoppolta le előbb?",
+        "answerA": "Dan",
+        "answerB": "Bill",
+        "correct": "B"
+    },
+    {
+        "id": "120.1",
+        "sent": "Ahogy Andrea a permetező repülővel elment Susan felett, látta a leszállópályát.",
+        "question": "Ki látta a leszállópályát?",
+        "answerA": "Andrea",
+        "answerB": "Susan",
+        "correct": "A"
+    },
+    {
+        "id": "120.2",
+        "sent": "Ahogy Andrea a permetező repülővel elment Susan felett, látta a futóművet.",
+        "question": "Ki látta a futóművet?",
+        "answerA": "Andrea",
+        "answerB": "Susan",
+        "correct": "B"
+    },
+    {
+        "id": "121.1",
+        "sent": "Tom elvitte Ralphot az iskolába, hogy ne kelljen egyedül vezetnie.",
+        "question": "Kinek ne kelljen egyedül vezetnie?",
+        "answerA": "Tom",
+        "answerB": "Ralph",
+        "correct": "A"
+    },
+    {
+        "id": "121.2",
+        "sent": "Tom elvitte Ralphot az iskolába, hogy ne kelljen sétálnia.",
+        "question": "Kinek ne kelljen sétálnia?",
+        "answerA": "Tom",
+        "answerB": "Ralph",
+        "correct": "B"
+    },
+    {
+        "id": "122.1",
+        "sent": "Bill átadta a félig teli tányérját Johnnak, mert jóllakott.",
+        "question": "Ki volt jóllakott?",
+        "answerA": "Bill",
+        "answerB": "John",
+        "correct": "A"
+    },
+    {
+        "id": "122.2",
+        "sent": "Bill átadta a félig teli tányérját Johnnak, mert éhes volt.",
+        "question": "Ki volt éhes?",
+        "answerA": "Bill",
+        "answerB": "John",
+        "correct": "B"
+    },
+    {
+        "id": "123.1",
+        "sent": "Bill odaadta a gameboy-t Johnnak, mert véget ért az ő köre.",
+        "question": "Kinek ért véget a köre?",
+        "answerA": "Billnek",
+        "answerB": "Johnnak",
+        "correct": "A"
+    },
+    {
+        "id": "123.2",
+        "sent": "Bill odaadta a gameboy-t Johnnak, mert kezdődött az ő köre.",
+        "question": "Kinek kezdődött a köre?",
+        "answerA": "Billnek",
+        "answerB": "Johnnak",
+        "correct": "B"
+    },
+    {
+        "id": "124.1",
+        "sent": "A férfi felemelte a fiút a vállára.",
+        "question": "Kinek a vállára?",
+        "answerA": "A férfiéra",
+        "answerB": "A fiúéra",
+        "correct": "A"
+    },
+    {
+        "id": "124.2",
+        "sent": "A férfi felemelte a fiút az emeletes ágyára.",
+        "question": "Kinek az emeletes ágyára?",
+        "answerA": "A férfiéra",
+        "answerB": "A fiúéra",
+        "correct": "B"
+    },
+    {
+        "id": "125.1",
+        "sent": "A kezét intésre emelve a nő rámosolygott a lányra.",
+        "question": "Kinek a kezét emelte intésre a nő?",
+        "answerA": "A nőét",
+        "answerB": "A lányét",
+        "correct": "A"
+    },
+    {
+        "id": "125.2",
+        "sent": "A kezét megérintve a nő rámosolygott a lányra.",
+        "question": "Kinek a kezét érintette meg a nő?",
+        "answerA": "A nőét",
+        "answerB": "A lányét",
+        "correct": "B"
+    },
+    {
+        "id": "126.1",
+        "sent": "Billy sírt, mert Toby nem fogadta el a játékát.",
+        "question": "Kié a játék?",
+        "answerA": "Billyét",
+        "answerB": "Tobyét",
+        "correct": "A"
+    },
+    {
+        "id": "126.2",
+        "sent": "Billy sírt, mert Toby nem osztotta meg a játékát.",
+        "question": "Kié a játék?",
+        "answerA": "Billyét",
+        "answerB": "Tobyét",
+        "correct": "B"
+    },
+    {
+        "id": "128.1",
+        "sent": "Mikor Tommy elejtette a jégkrémét, Timmy kinevette, szóval apa megértően nézett rá.",
+        "question": "Kire nézett apa?",
+        "answerA": "Tommyra",
+        "answerB": "Timmyre",
+        "correct": "A"
+    },
+    {
+        "id": "128.2",
+        "sent": "Mikor Tommy elejtette a jégkrémét, Timmy kinevette, szóval apa szigorúan nézett rá.",
+        "question": "Kire nézett apa?",
+        "answerA": "Tommyra ",
+        "answerB": "Timmyre",
+        "correct": "B"
+    },
+    {
+        "id": "129.1",
+        "sent": "Ahogy Ollie felvitte Tommyt a hosszú, kanyargós lépcsősoron, fájt a lába.",
+        "question": "Kinek fájt a lába?",
+        "answerA": "Ollie-nak",
+        "answerB": "Tommynak",
+        "correct": "A"
+    },
+    {
+        "id": "129.2",
+        "sent": "Ahogy Ollie felvitte Tommyt a hosszú, kanyargós lépcsősoron, lelógott a lába.",
+        "question": "Kinek lógott le a lába?",
+        "answerA": "Ollie-nak",
+        "answerB": "Tommynak",
+        "correct": "B"
+    },
+    {
+        "id": "130.1",
+        "sent": "Az apja a karjaiban vitte az alvó fiút.",
+        "question": "Kinek a karjaiban?",
+        "answerA": "Az apáéban",
+        "answerB": "A fiúéban",
+        "correct": "A"
+    },
+    {
+        "id": "130.2",
+        "sent": "Az apja a mózeskosarában vitte az alvó fiút.",
+        "question": "Kinek a mózeskosarában?",
+        "answerA": "Az apáéban",
+        "answerB": "A fiúéban",
+        "correct": "B"
+    },
+    {
+        "id": "133.1",
+        "sent": "Dr. Adams tájékoztatta Kate-et, hogy nyugdíjba megy, és több lehetőséget ismertetett vele a további kezelést illetően.",
+        "question": "Ki megy nyugdíjba?",
+        "answerA": "Dr. Adams",
+        "answerB": "Kate",
+        "correct": "A"
+    },
+    {
+        "id": "133.2",
+        "sent": "Dr. Adams tájékoztatta Kate-et, hogy rákos, és több lehetőséget ismertetett vele a további kezelést illetően.",
+        "question": "Ki rákos?",
+        "answerA": "Dr. Adams",
+        "answerB": "Kate",
+        "correct": "B"
+    },
+    {
+        "id": "134.1",
+        "sent": "Dannek meg kellett állítania Billt, hogy ne játsszon a sérült madárral. Nagyon együttérző.",
+        "question": "Ki nagyon együttérző?",
+        "answerA": "Dan",
+        "answerB": "Bill",
+        "correct": "A"
+    },
+    {
+        "id": "134.2",
+        "sent": "Dannek meg kellett állítania Billt, hogy ne játsszon a sérült madárral. Nagyon kegyetlen.",
+        "question": "Ki nagyon kegyetlen?",
+        "answerA": "Dan",
+        "answerB": "Bill",
+        "correct": "B"
+    },
+    {
+        "id": "137.1",
+        "sent": "Próbáltam egy gyümölcsöst festeni, citrommal a citromfákon, de inkább villanykörtéknek tűnnek.",
+        "question": "Mik tűntek villanykörtéknek?",
+        "answerA": "A citromokból",
+        "answerB": "A citromfákból",
+        "correct": "A"
+    },
+    {
+        "id": "137.2",
+        "sent": "Próbáltam egy gyümölcsöst festeni, citrommal a citromfákon, de inkább villanypóznáknak tűnnek.",
+        "question": "Mik tűntek villanypóznáknak?",
+        "answerA": "A citromokból",
+        "answerB": "A citromfákból",
+        "correct": "B"
+    },
+    {
+        "id": "138.1",
+        "sent": "James szívességet kért Roberttől, de el lett utasítva.",
+        "question": "Ki lett elutasítva?",
+        "answerA": "James",
+        "answerB": "Robert",
+        "correct": "A"
+    },
+    {
+        "id": "138.2",
+        "sent": "James szívességet kért Roberttől, de elutasította.",
+        "question": "Ki utasította el?",
+        "answerA": "James",
+        "answerB": "Robert",
+        "correct": "B"
+    },
+    {
+        "id": "139.1",
+        "sent": "Kirilov átengedte az elnökséget Shatovnak, mert népszerűtlenebb volt.",
+        "question": "Ki volt népszerűtlenebb?",
+        "answerA": "Kirilov ",
+        "answerB": "Shatov",
+        "correct": "A"
+    },
+    {
+        "id": "139.2",
+        "sent": "Kirilov átengedte az elnökséget Shatovnak, mert népszerűbb volt.",
+        "question": "Ki volt népszerűbb?",
+        "answerA": "Kirilov ",
+        "answerB": "Shatov",
+        "correct": "B"
+    },
+    {
+        "id": "141.1",
+        "sent": "Joe látta a bátyját síelni a tévében, de a kis hülye nem ismerte fel.",
+        "question": "Ki a hülye?",
+        "answerA": "Joe",
+        "answerB": "Joe bátyja",
+        "correct": "A"
+    },
+    {
+        "id": "141.2",
+        "sent": "Joe látta a bátyját síelni a tévében, de a kis hülye nem viselt kabátot.",
+        "question": "Ki a hülye?",
+        "answerA": "Joe",
+        "answerB": "Joe bátyja",
+        "correct": "B"
+    },
+    {
+        "id": "142.1",
+        "sent": "Az asztalra raktam a pillangószárnyat és összetört.",
+        "question": "Mi tört össze?",
+        "answerA": "A pillangószárny",
+        "answerB": "Az asztal",
+        "correct": "A"
+    },
+    {
+        "id": "142.2",
+        "sent": "Az asztalra raktam a nehéz könyvet és összetört.",
+        "question": "Mi tört össze?",
+        "answerA": "A nehéz könyv",
+        "answerB": "Az asztal",
+        "correct": "B"
+    },
+    {
+        "id": "144.1",
+        "sent": "Carol azt hitte, hogy Rebecca sejti, hogy ellopta az órát.",
+        "question": "Kiről sejtik, hogy ellopták az órát?",
+        "answerA": "Carol",
+        "answerB": "Rebecca",
+        "correct": "A"
+    },
+    {
+        "id": "144.2",
+        "sent": "Carol azt hitte, hogy Rebecca megbánta, hogy ellopta az órát.",
+        "question": "Ki lopta el az órát?",
+        "answerA": "Carol",
+        "answerB": "Rebecca",
+        "correct": "B"
+    },
+    {
+        "id": "147.1",
+        "sent": "Alice a barátját, Jade-et kereste a tömegben. Mivel mindig szerencséje van, hamar észreveszi.",
+        "question": "Kinek van szerencséje?",
+        "answerA": "Alice",
+        "answerB": "Jade",
+        "correct": "A"
+    },
+    {
+        "id": "147.2",
+        "sent": "Alice a barátját, Jade-et kereste a tömegben. Mivel mindig piros turbánban van, hamar észreveszi.",
+        "question": "Ki van piros turbánban?",
+        "answerA": "Alice",
+        "answerB": "Jade",
+        "correct": "B"
+    },
+    {
+        "id": "148.1",
+        "sent": "Fogócska közben Ethan Luke-ot üldözte, mert ő volt a fogó.",
+        "question": "Ki volt a fogó?",
+        "answerA": "Ethan",
+        "answerB": "Luke",
+        "correct": "A"
+    },
+    {
+        "id": "148.2",
+        "sent": "Fogócska közben Ethan Luke elől rohant, mert ő volt a fogó.",
+        "question": "Ki volt a fogó?",
+        "answerA": "Ethan",
+        "answerB": "Luke",
+        "correct": "B"
+    },
+    {
+        "id": "149.1",
+        "sent": "A Loebner versenyen a zsűri nem tudott rájönni, melyik válaszadók voltak chatbotok, mert annyira hülyék voltak.",
+        "question": "Kik voltak hülyék?",
+        "answerA": "A zsűri",
+        "answerB": "A chatbotok",
+        "correct": "A"
+    },
+    {
+        "id": "149.2",
+        "sent": "A Loebner versenyen a zsűri nem tudott rájönni, melyik válaszadók voltak chatbotok, mert annyira profik voltak.",
+        "question": "Kik voltak profik?",
+        "answerA": "A zsűri ",
+        "answerB": "A chatbotok",
+        "correct": "B"
+    },
+    {
+        "id": "150.1",
+        "sent": "A felhasználó \"GrWQWu8JyC\"-ról \"fűzfatornyú Ernyő Vadásztropikus birkózások\"-ra változtatta a jelszavát, mert azt könnyű volt elfelejteni.",
+        "question": "Mit volt könnyű elfelejteni?",
+        "answerA": "GrWQWu8JyC",
+        "answerB": "fűzfatornyű baldachinvadász trópusi harcok",
+        "correct": "A"
+    },
+    {
+        "id": "150.2",
+        "sent": "A felhasználó \"GrWQWu8JyC\"-ról \"fűzfatornyú Ernyő Vadásztropikus birkózások\"-ra változtatta a jelszavát, mert azt könnyű volt megjegyezni.",
+        "question": "Mit volt könnyű megjegyezni?",
+        "answerA": "GrWQWu8JyC",
+        "answerB": "fűzfatornyú Ernyő Vadásztropikus birkózások",
+        "correct": "B"
+    }
+]
