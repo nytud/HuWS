@@ -1,4 +1,4 @@
-# HuWSC
+# HuWS
 
 This is the home repository for the Hungarian set of the Winograd schemas. A Winograd schema is a pair of sentences that differ in only one or two words and that contain an ambiguity that is resolved in opposite ways in the two sentences and requires the use of world knowledge and reasoning for its resolution (Levesque et al. 2012). This dataset is also part of the Hungarian Language Understanding Evaluation Benchmark Kit [HuLU](hulu.nlp.nytud.hu). The corpus was created by translating and manually curating the original English Winograd schemata.
 
