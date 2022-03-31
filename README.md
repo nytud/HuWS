@@ -38,7 +38,7 @@ The data is a translation of the English Winograd schemas. Each schema was trans
 
 ### Licensing Information
 
-HuWSC is released under the BSD 2-Clause License.
+HuWSC is released under the CC-BY-SA 4.0 license.
 
 ### Citation Information
 
