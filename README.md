@@ -12,12 +12,12 @@ An example:
 
 ```
 
-{"ID": "1.1",
+{"ID": "1",
  "Sent": "A városi tanácstagok nem adtak engedélyt a tüntetőknek, mert kerülték az erőszakot.",
  "Question": "Kik kerülték az erőszakot?",
  "Answer1": "a városi tanácstagok",
  "Answer2": "a tüntetők",
- "CorrectAnswer": "1"
+ "CorrectAnswer": "a városi tanácstagok"
 }
 
 ```
@@ -28,7 +28,7 @@ An example:
 - Question: a manually formed question;  
 - Answer1: the first possible reference;
 - Answer2: the second possible reference;
-- CorrectAnswer: the number of the correct answer (1 or 2).
+- CorrectAnswer: the correct answer :)
 
 ## Dataset Creation
 
