@@ -962,7 +962,7 @@
     {
         "ID": "121",
         "Sent": "Janka kopogott az ajtón, és Zsuzsa kinyitotta. Kihívta őt.",
-        "Question": "Ki hívott kit?",
+        "Question": "Ki hívott ki kit?",
         "Answer1": "Janka hívta Zsuzsát.",
         "Answer2": "Zsuzsa hívta Jankát.",
         "CorrectAnswer": "Janka hívta Zsuzsát."
@@ -970,7 +970,7 @@
     {
         "ID": "122",
         "Sent": "Janka kopogott az ajtón, és Zsuzsa kinyitotta. Behívta őt.",
-        "Question": "Ki hívott kit?",
+        "Question": "Ki hívott be kit?",
         "Answer1": "Janka hívta Zsuzsát.",
         "Answer2": "Zsuzsa hívta Jankát.",
         "CorrectAnswer": "Zsuzsa hívta Jankát."
@@ -1817,7 +1817,7 @@
     },
     {
         "ID": "228",
-        "Sent": "James szívességet kért Roberttől, de elutasította.",
+        "Sent": "Zoli szívességet kért Róberttől, de elutasította.",
         "Question": "Ki utasította el?",
         "Answer1": "Zoli",
         "Answer2": "Róbert",
