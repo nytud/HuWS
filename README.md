@@ -59,6 +59,22 @@ Ligeti-Nagy, N., Ferenczi, G., Héja, E., Jelencsik-Mátyus, K., Laki, L. J., Va
 }
 ```
 and to:
+
+Vadász, N., & Ligeti-Nagy, N. (2022). Winograd schemata and other datasets for anaphora resolution in Hungarian, Acta Linguistica Academica, 69(4), in press.
+```
+@article {HuWNLI,
+      author = "Noémi Vadász and Noémi Ligeti-Nagy",
+      title = "Winograd schemata and other datasets for anaphora resolution in Hungarian",
+      journal = "Acta Linguistica Academica",
+      year = "2022",
+      publisher = "Akadémiai Kiadó",
+      address = "Budapest, Hungary",
+      volume = "69",
+      number = "4",
+      note = "In press."
+}
+
+and to:
 Levesque, Hector, Davis, Ernest, Morgenstern, Leora (2012) he winograd schema challenge. In: Thirteenth International Conference on the Principles of Knowledge Representation and Reasoning.
 
 ```
