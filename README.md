@@ -63,7 +63,7 @@ and to:
 Vadász, N., & Ligeti-Nagy, N. (2022). Winograd schemata and other datasets for anaphora resolution in Hungarian, Acta Linguistica Academica, 69(4), in press.
 
 ```bibtex
-@article {HuWNLI,
+@article{vadaszligeti2022actawinograd,
       author = "Noémi Vadász and Noémi Ligeti-Nagy",
       title = "Winograd schemata and other datasets for anaphora resolution in Hungarian",
       journal = "Acta Linguistica Academica",
