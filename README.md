@@ -74,11 +74,11 @@ Vadász, N., & Ligeti-Nagy, N. (2022). Winograd schemata and other datasets for 
       number = "4",
       note = "In press."
 }
-
+```
 and to:
 Levesque, Hector, Davis, Ernest, Morgenstern, Leora (2012) he winograd schema challenge. In: Thirteenth International Conference on the Principles of Knowledge Representation and Reasoning.
 
-```
+```bibtex
 @inproceedings{levesque2012winograd,
   title={The winograd schema challenge},
   author={Levesque, Hector and Davis, Ernest and Morgenstern, Leora},
